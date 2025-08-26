@@ -2,6 +2,6 @@ package interaction
 
 import "fmt"
 
-func sayHello() {
+func SayHello() {
 	fmt.Println("Hello There!");
 }
